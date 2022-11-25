@@ -13,7 +13,9 @@
 
 注意・警戒の「黄色」をつかって、ポップなロゴイメージに。
 
-<img src="https://github.com/hinamei/past-disaster-map/blob/main/data/logo.png?raw=true" id="logo" width="1000px">
+<img src="https://github.com/Azarashiha/past-disaster-map/blob/main/data/logo.png?raw=true" id="logo" width="1000px">
+
+<img src="https://github.com/Azarashiha/past-disaster-map/blob/main/data/img.png?raw=true" id="logo" width="1000px">
 
 今回は、エリアを「茨城県」に限定しプロトタイプを作成。
 
