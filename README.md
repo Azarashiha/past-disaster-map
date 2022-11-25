@@ -17,6 +17,8 @@
 
 今回は、エリアを「茨城県」に限定しプロトタイプを作成。
 
+https://azarashiha.github.io/past-disaster-map/#9/36.2303/140.5332/-23.2/52
+
 ## 利用データ
 - NHK 災害アーカイブス API
     - APIから情報を取得し、市区町村を調査してGeoJSONに組み込み
