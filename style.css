@@ -1,0 +1,61 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+/* ヘッダー */
+#header {
+    height: 10%;
+    background-color: #FFC042;
+    display: flex;
+    align-items: center;
+}
+#logo{
+    padding-left: 30px;
+    height: 90%;
+}
+/* /ヘッダー */
+/* コンテンツ */
+/* 地図 */
+#map-area {
+    height: 90%;
+    display: flex;
+}
+#map {
+    width: 100%;
+    /* width: 100%; */
+    height: 100%;
+}
+/* /コンテンツ */
+
+/* /popupデザイン */
+.my-class {
+    color: rgb(0, 0, 0);  
+    font-weight: bold;
+    font-size: 15px;
+  }
+  
+.my-class .maplibregl-popup-content {
+background-color: rgb(187, 255, 187);
+box-shadow: 6px 6px 6px rgba(100, 100, 100, 0.24);
+border: 2px solid rgb(0, 172, 74);
+border-radius: 8px;
+
+}
+
+.article-class {
+    color: rgb(0, 0, 0);  
+    font-weight: bold;
+    font-size: 15px;
+  }
+  
+.article-class .maplibregl-popup-content {
+background-color: rgb(252,235,63);
+box-shadow: 6px 6px 6px rgba(100, 100, 100, 0.24);
+border: 2px solid rgb(245,135,45);
+border-radius: 8px;
+width:350px;
+
+}
+
